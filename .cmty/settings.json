@@ -1,4 +1,5 @@
 {
+  "name": "toto",
   "badges": [{
     "service": "codecov",
     "type": "coverage",
