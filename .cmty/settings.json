@@ -4,5 +4,9 @@
     "service": "codecov",
     "type": "coverage",
     "name": "github/nuxt/nuxt.js/dev"
+  }, {
+    "service": "npm",
+    "type": "license",
+    "name": "nuxt"
   }]
 }
