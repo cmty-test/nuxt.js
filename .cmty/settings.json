@@ -1,3 +1,7 @@
 {
-  "badges": []
+  "badges": [{
+    "service": "codecov",
+    "type": "coverage",
+    "name": "github/nuxt/nuxt.js/dev"
+  }]
 }
