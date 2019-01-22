@@ -1,12 +1,30 @@
 {
-  "name": "toto1",
-  "badges": [{
-    "service": "codecov",
-    "type": "coverage",
-    "name": "github/nuxt/nuxt.js/dev"
-  }, {
-    "service": "npm",
-    "type": "license",
-    "name": "nuxt"
-  }]
+  "badges": {
+    "size": {
+      "service": "bundlephobia",
+      "name": "imperium"
+    },
+    "downloads": {
+      "service": "npm",
+      "name": "nuxt"
+    },
+    "tests": [{
+      "service": "circleci",
+      "name": "gh/nuxt/nuxt.js"
+    }, {
+      "service": "azure-pipelines",
+      "name": "nuxt/nuxt.js"
+    }, {
+      "service": "travis",
+      "name": "cmty/imperium"
+    }],
+    "coverage": {
+      "service": "codecov",
+      "name": "github/nuxt/nuxt.js/dev"
+    },
+    "license": {
+      "service": "github",
+      "name": "nuxt/nuxt.js"
+    }
+  }
 }
