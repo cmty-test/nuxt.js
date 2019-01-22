@@ -2,7 +2,7 @@
   "name": "test",
   "badges": {
     "size": {
-      "service": "bundlephobia2",
+      "service": "bundlephobia",
       "name": "imperium"
     },
     "downloads": {
@@ -23,7 +23,7 @@
       "service": "codecov",
       "name": "github/nuxt/nuxt.js/dev"
     },
-    "license": {
+    "license2": {
       "service": "github",
       "name": "nuxt/nuxt.js"
     }
