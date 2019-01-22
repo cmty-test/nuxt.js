@@ -23,7 +23,7 @@
       "service": "codecov",
       "name": "github/nuxt/nuxt.js/dev"
     },
-    "license2": {
+    "license": {
       "service": "github",
       "name": "nuxt/nuxt.js"
     }
