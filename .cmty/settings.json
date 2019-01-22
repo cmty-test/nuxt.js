@@ -2,7 +2,7 @@
   "name": "test",
   "badges": {
     "size": {
-      "service": "bundlephobia",
+      "service": "bundlephobia2",
       "name": "imperium"
     },
     "downloads": {
