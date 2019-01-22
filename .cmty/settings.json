@@ -6,8 +6,7 @@
       "name": "imperium"
     },
     "downloads": {
-      "service": "npm",
-      "name": "nuxt"
+      "service": "npm"
     },
     "tests": [{
       "service": "circleci",
