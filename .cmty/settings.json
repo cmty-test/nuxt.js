@@ -10,7 +10,7 @@
     },
     "tests": [{
       "service": "circleci",
-      "name": "gh/nuxt/nuxt.js"
+      "name": "github/nuxt/nuxt.js/dev"
     }, {
       "service": "azure-pipelines",
       "name": "nuxt/nuxt.js"
