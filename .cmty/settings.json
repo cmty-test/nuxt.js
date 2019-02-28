@@ -6,7 +6,7 @@
       "service": "bundlephobia"
     },
     "downloads": {
-      "service": "npm",
+      "service2": "npm",
       "name": "nuxt"
     },
     "tests": [{
