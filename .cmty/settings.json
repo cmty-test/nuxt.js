@@ -5,8 +5,7 @@
       "service": "bundlephobia"
     },
     "downloads": {
-      "service": "npm",
-      "name": "nuxt"
+      "service": "npm"
     },
     "tests": [{
       "service": "circleci",
@@ -21,6 +20,10 @@
     "coverage": {
       "service": "codecov",
       "name": "github/nuxt/nuxt.js/dev"
+    },
+    "license": {
+      "service": "github",
+      "name": "nuxt/nuxt.js"
     }
   }
 }
