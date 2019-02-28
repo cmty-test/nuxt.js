@@ -6,7 +6,8 @@
     },
     "downloads": {
       "service": "npm",
-      "name": "nuxt"
+      "name": "nuxt",
+      "test": "ok"
     },
     "tests": [{
       "service": "circleci",
