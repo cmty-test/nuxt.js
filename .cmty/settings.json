@@ -1,13 +1,13 @@
 {
-  "ok": true,
   "badges": {
     "size": {
       "name": "imperium",
       "service": "bundlephobia"
     },
     "downloads": {
-      "service2": "npm",
-      "name": "nuxt"
+      "service": "npm",
+      "name": "nuxt",
+      "test": "ok"
     },
     "tests": [{
       "service": "circleci",
