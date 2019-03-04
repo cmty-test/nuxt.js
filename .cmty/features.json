@@ -4,7 +4,6 @@
     {
       "key": "body",
       "name": "What is your feature?",
-      "type": "markdown",
       "required": true
     },
     {
