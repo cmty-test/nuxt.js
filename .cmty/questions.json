@@ -8,7 +8,8 @@
       "name": "Version",
       "type": "tag",
       "required": true,
-      "size": "1/2"
+      "size": "1/2",
+      "repository": "nodejs/node"
     },
     {
       "key": "body",
