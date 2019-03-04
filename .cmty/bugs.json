@@ -1,2 +1,16 @@
 {
+  "export": true,
+  "template": [
+    {
+      "key": "body",
+      "name": "What is your bug?",
+      "type": "markdown",
+      "required": true
+    },
+    {
+      "key": "more",
+      "name": "Other information?",
+      "type": "markdown"
+    }
+  ]
 }
