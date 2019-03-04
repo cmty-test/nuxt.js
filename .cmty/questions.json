@@ -4,13 +4,6 @@
   "closeOnImport": false,
   "template": [
     {
-      "key": "version",
-      "name": "Version",
-      "type": "tag",
-      "required": true,
-      "size": "w-1/2"
-    },
-    {
       "key": "body",
       "name": "What is your question?",
       "type": "markdown",
