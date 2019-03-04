@@ -9,7 +9,7 @@
       "type": "tag",
       "required": true,
       "size": "1/2",
-      "repository": "nodejs/node"
+      "repo": "nodejs/node"
     },
     {
       "key": "body",
