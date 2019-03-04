@@ -1,5 +1,12 @@
 
 {
   "export": true,
-  "closeOnImport": false
+  "closeOnImport": false,
+  "template": [
+    {
+      "key": "version",
+      "name": "Version",
+      "type": "tag",
+      "required": true
+  ]
 }
