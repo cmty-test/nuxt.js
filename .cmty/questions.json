@@ -16,6 +16,11 @@
       "name": "What is your question?",
       "type": "markdown",
       "required": true
+    },
+    {
+      "key": "more",
+      "name": "Other information?",
+      "type": "markdown"
     }
   ]
 }
