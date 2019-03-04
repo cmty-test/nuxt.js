@@ -8,6 +8,12 @@
       "name": "Version",
       "type": "tag",
       "required": true
+    },
+    {
+      "key": "body",
+      "name": "What is your question?",
+      "type": "markdown",
+      "required": true
     }
   ]
 }
