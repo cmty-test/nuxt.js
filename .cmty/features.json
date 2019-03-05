@@ -4,6 +4,7 @@
     "minor": [
       {
         "key": "body",
+        "type": "markdown",
         "name": "What is your feature?",
         "required": true
       },
