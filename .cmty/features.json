@@ -1,15 +1,17 @@
 {
   "export": true,
-  "template": [
-    {
-      "key": "body",
-      "name": "What is your feature?",
-      "required": true
-    },
-    {
-      "key": "more",
-      "name": "Other information?",
-      "type": "markdown"
-    }
-  ]
+  "template": {
+    "minor": [
+      {
+        "key": "body",
+        "name": "What is your feature?",
+        "required": true
+      },
+      {
+        "key": "more",
+        "name": "Other information?",
+        "type": "markdown"
+      }
+    ]
+  }
 }
